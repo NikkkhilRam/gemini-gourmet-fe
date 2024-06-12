@@ -19,6 +19,12 @@ RecipeGPT is a web application that generates recipes based on user-provided ing
 
 ## Demo
 Below are snippets from the site.
+![Demo](public/demo1.png)
+
+
+
+![Demo](public/demo2.png)
+
 
 
 ## Installation
