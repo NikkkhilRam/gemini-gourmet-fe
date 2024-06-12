@@ -1,0 +1,5 @@
+export const dummyRecipe = {
+  recipeName: "French Toast with Eggy Cheese Scramble and Lettuce",
+  recipe:
+    "**French Toast with Eggy Cheese Scramble and Lettuce**\n\n**Ingredients:**\n\n* 2 eggs\n* 2 slices of bread\n* 1/4 cup shredded cheddar cheese\n* 1/4 cup chopped lettuce\n* Salt and pepper to taste\n\n**Instructions:**\n\n1. **Make the eggy cheese scramble:** In a small bowl, whisk together the eggs, salt, and pepper. Heat a non-stick skillet over medium heat. Pour the egg mixture into the skillet and cook, stirring occasionally, until set and cooked through. Remove from the heat and stir in the shredded cheese.\n2. **Dip the bread:** Dip both sides of the bread slices into the remaining egg mixture.\n3. **Cook the French toast:** Heat a large skillet or griddle over medium heat. Grease the pan with butter or cooking spray. Cook the bread slices for 2-3 minutes per side, or until golden brown and cooked through.\n4. **Assemble the dish:** Place the French toast on a plate. Top with the eggy cheese scramble and chopped lettuce.\n5. **Serve immediately:** Enjoy your French Toast with Eggy Cheese Scramble and Lettuce!",
+};
