@@ -1,6 +1,6 @@
-# RecipeGPT
+# Gemini Gourmet
 
-RecipeGPT is a web application that generates recipes based on user-provided ingredients, cuisine type, dietary restrictions, and other preferences. The application uses the latest Gemini AI API from google. The application further uses Youtube Data API V3 to fetch videos based on the recipe generated.
+GeminiGourmet is a web application that generates recipes based on user-provided ingredients, cuisine type, dietary restrictions, and other preferences. The application uses the latest Gemini AI API from google. The application further uses Youtube Data API V3 to fetch videos based on the recipe generated.
 
 ## Table of Contents
 - [Features](#features)
